@@ -1,16 +1,9 @@
-3dayflood
-=========
+BathingWaters that tweet
+========================
 
-A BlueLightCamp Hack for #ukBLC13
+Takes data from an endpoint at http://environment.data.gov.uk/bwq/ and tweets the state of bathing waters in an area
 
-Ingests the 3 Day Flood Forecast from http://flooddata.alphagov.co.uk/
+Based on work by Terence Eden (@edent) to tweet the Three Day flooding forecasr at BlueLightHack #ukblc14
 
-Tweets the images to https://twitter.com/3dayflood
 
-Winner! Best in show :-)
 
-https://twitter.com/3dayflood/status/465515122124161024
-
-https://twitter.com/edent/status/465512958391758849
-
-https://twitter.com/dataenvagency/status/465503979406131200
